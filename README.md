@@ -29,7 +29,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Currently looking for a job as a Front-End Engineer.
 
-- :zap: In my free time, I solve problems on HackerRank and read tech articles.
+- :zap: I love building websites and apps that are responsive and usable.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shatha-makhlouf/)
 ---
